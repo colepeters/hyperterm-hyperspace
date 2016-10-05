@@ -1,0 +1,28 @@
+{
+  "name": "hyperterm-hyperspace",
+  "version": "1.0.0",
+  "description": "Colour scheme for Hyperterm based on the Spacemacs theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colepeters/hyperterm-hyperspace.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "spacemacs",
+    "colourscheme",
+    "colorscheme",
+    "colours",
+    "colors",
+    "terminal"
+  ],
+  "author": "Cole Peters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colepeters/hyperterm-hyperspace/issues"
+  },
+  "homepage": "https://github.com/colepeters/hyperterm-hyperspace#readme"
+}
