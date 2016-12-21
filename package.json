@@ -1,7 +1,7 @@
 {
   "name": "hyperterm-hyperspace",
-  "version": "1.0.0",
-  "description": "Colour scheme for Hyperterm based on the Spacemacs theme",
+  "version": "1.0.1",
+  "description": "DEPRECATED. Please see new package hyper-space",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
